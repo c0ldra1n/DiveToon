@@ -10,6 +10,6 @@
 
 The viewer application is available on iOS. Simply drag and drop the downloaded folder(this is the parent folder that includes all episodes). Each folder must include a file named ``webtoon.json`` which acts as an index calculator.
 
-## Important Notice
+## Notice
 
-Due to copyright issues, I might have to shut this project down.
+This project is not for piracy or copyright infringement-- it is made for educational purposes. Please use it wisely.
